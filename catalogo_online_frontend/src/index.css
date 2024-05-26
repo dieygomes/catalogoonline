@@ -1,0 +1,20 @@
+/* styles.css */
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* Adicione mais estilos aqui */
+}
+
+.banner {
+  /* Adicione estilos para banners aqui */
+}
+
+footer {
+  /* Adicione estilos para o rodapé aqui */
+}
